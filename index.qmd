@@ -2,7 +2,7 @@
 title: "vignettes"
 ---
 
-This is a Quarto website by me AND me and me 333.
+This is a Quarto wbsite by me AND me and me 333.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
